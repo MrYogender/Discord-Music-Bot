@@ -38,7 +38,7 @@ https://youtu.be/shf7FJGpbCc
 
 ## Credits
 
-[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+[@MrYogender](https://github.com/MrYogender/) For the Reacting system to messages, great Idea i adopted that [@MrYogender/Discord-Music-Bot](https://github.com/MrYogender/Discord-Music-Bot)
 
 Thanks For YOGENDER#9138
 Check Out MrYogender Gtihub Repo
