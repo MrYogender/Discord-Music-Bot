@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "ascii-table": "^0.0.9",
     "common-tags": "^1.8.0",
     "deezer-public-api": "^1.0.4",
